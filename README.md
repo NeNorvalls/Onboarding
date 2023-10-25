@@ -2,7 +2,7 @@
 
 ![Onboarding](/Onboarding-cover.jpg)
 
-![Visit My Project on Netlify](https://nenorvalls-onboarding.netlify.app/)
+[Visit My Project on Netlify](https://nenorvalls-onboarding.netlify.app/)
 
 
 This JavaScript code provides page navigation functionality for an onboarding process with "Skip" and "Next" buttons. It's designed to control the flow between multiple pages, allowing users to navigate through the onboarding steps.
