@@ -88,4 +88,20 @@ body, html, h1, h2, p, img {
       font-size: 14px;
     }
   }
+
+  .back-to-landing {
+    color: #ffd700;
+    font-weight: bold;
+    display: block; 
+    margin: 0 auto; 
+    padding: 1rem; 
+    text-align: center; 
+    text-decoration: none;
+  }
+  
+  .back-to-landing:hover {
+    text-decoration: underline;
+  }
+  
+  
   
