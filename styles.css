@@ -96,6 +96,7 @@ body, html, h1, h2, p, img {
     padding: 1rem; 
     text-align: center; 
     text-decoration: none;
+    color: #fff;
   }
   
   .back-to-landing:hover {
